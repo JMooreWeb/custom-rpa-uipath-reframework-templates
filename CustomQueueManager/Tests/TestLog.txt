@@ -1,0 +1,14 @@
+﻿
+=================================================
+Starting new set of 8 tests at 10:37:46  AM, 10/07/2021
+=================================================
+10:37:47 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+10:37:47 AM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+10:37:48 AM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+10:37:48 AM	Test 4 FAIL  ---> Framework\CloseAllApplications.xaml ---> SystemException
+10:37:48 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+10:37:49 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+10:37:49 AM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+10:37:49 AM	Test 8 PASS  ---> Framework\CloseAllApplications.xaml
+================================
+10:37:50	Summary: 7/8 Tests Passed. Total execution time: 4 seconds
